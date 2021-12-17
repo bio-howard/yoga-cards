@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/yoga-cards/static/css/main.c268de60.css",
-    "main.js": "/yoga-cards/static/js/main.88b7a13a.js",
+    "main.js": "/yoga-cards/static/js/main.3a75ceb8.js",
     "static/js/787.125cec26.chunk.js": "/yoga-cards/static/js/787.125cec26.chunk.js",
     "index.html": "/yoga-cards/index.html",
     "main.c268de60.css.map": "/yoga-cards/static/css/main.c268de60.css.map",
-    "main.88b7a13a.js.map": "/yoga-cards/static/js/main.88b7a13a.js.map",
+    "main.3a75ceb8.js.map": "/yoga-cards/static/js/main.3a75ceb8.js.map",
     "787.125cec26.chunk.js.map": "/yoga-cards/static/js/787.125cec26.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c268de60.css",
-    "static/js/main.88b7a13a.js"
+    "static/js/main.3a75ceb8.js"
   ]
 }
