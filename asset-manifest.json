@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/yoga-cards/static/css/main.073c9b0a.css",
+    "main.js": "/yoga-cards/static/js/main.f32cef9e.js",
+    "static/js/787.125cec26.chunk.js": "/yoga-cards/static/js/787.125cec26.chunk.js",
+    "static/media/logo.svg": "/yoga-cards/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/yoga-cards/index.html",
+    "main.073c9b0a.css.map": "/yoga-cards/static/css/main.073c9b0a.css.map",
+    "main.f32cef9e.js.map": "/yoga-cards/static/js/main.f32cef9e.js.map",
+    "787.125cec26.chunk.js.map": "/yoga-cards/static/js/787.125cec26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f32cef9e.js"
+  ]
+}
